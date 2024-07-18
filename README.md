@@ -85,7 +85,7 @@ This file is the entry point of the application. It configures and starts the se
 - `PUT /:id` - Update a user by ID.
 - `DELETE /:id` - Delete a user by ID.
 
-#### Post (`post.js`)
+#### Posts (`post.js`)
 
 - `POST /create` - Create a new post.
 - `GET /` - List all posts.
